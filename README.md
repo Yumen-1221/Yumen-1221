@@ -2,7 +2,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="bloom-header-night.svg" />
-    <img src="bloom-header.svg" width="900" alt="yuki4266 — blooming banner" />
+    <img src="bloom-header.svg" width="900" alt="Yumen-1221 — blooming banner" />
   </picture>
 </div>
 
@@ -49,7 +49,7 @@
 
 <!-- ============ Snake ============ -->
 <div align="center">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/yuki4266/yuki4266/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Yumen-1221/Yumen-1221/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- ============ Footer (a cat lives here) ============ -->
@@ -59,8 +59,8 @@
     <img src="garden-footer.svg" width="900" alt="garden footer" />
   </picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yuki4266&label=Profile%20views&color=F4795B&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Yumen-1221&label=Profile%20views&color=F4795B&style=flat)
 
-<sub>The sky above follows the real forecast and the garden follows the season — powered by <a href="https://github.com/yuki4266/living-scene">living-scene</a>. Want one? <a href="https://github.com/yuki4266/living-scene-template/generate">Use the template</a>.</sub>
+<sub>The sky above follows the real forecast and the garden follows the season — powered by <a href="https://github.com/Yumen-1221/living-scene">living-scene</a>. Want one? <a href="https://github.com/Yumen-1221/living-scene-template/generate">Use the template</a>.</sub>
 
 </div>
